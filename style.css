@@ -50,3 +50,14 @@ h2 {
 .centered-gif {
   margin-top: 20px; 
 }
+
+.essen-bilder {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center;
+}
+
+.essen-bilder img {
+  width: 100px; 
+  margin: 10px;
+}
