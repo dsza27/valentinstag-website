@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bist du sicher?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Bist du sicher?</h1>
+    <img src="P3.gif" alt="GIF 3" class="centered-gif">
+  </div>
+</body>
+</html>
